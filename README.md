@@ -7,6 +7,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cpdmanduri&icon=2&color=4)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=cpdmanduri&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
